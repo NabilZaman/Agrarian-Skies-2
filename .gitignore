@@ -3,3 +3,4 @@
 /.curseclient
 /minecraftinstance.json
 /*.zip
+build/*
